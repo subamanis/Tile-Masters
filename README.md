@@ -1,5 +1,6 @@
 # Tile-Masters
 Android game - put your memory to the test recreating tile sequences in the correct order!
+
 You can download the apk and play 
 
 *Note that on the newest devices, your highscore is being reset every time you launch the game if you are connected to the internet and 
